@@ -1,3 +1,11 @@
+//LegoAd
+
+//Contributors
+//Zoe Napier
+//Chris Bianchi
+
+//Made by the Great and Powerful Stephen
+
 int red_x=20;
 int red_y=20;
 int blue_x=10;
